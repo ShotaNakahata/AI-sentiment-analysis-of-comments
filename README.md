@@ -18,7 +18,6 @@
 
 * **HTML**: Structures the content of the web application.
 * **CSS**: Styles the interface of the web application.
-* **JavaScript**: Enhances interactivity and user experience on the web application.
 * **Bootstrap**: A framework for quickly and easily building responsive and mobile-first websites.
 ### Back-end Technologies
 
