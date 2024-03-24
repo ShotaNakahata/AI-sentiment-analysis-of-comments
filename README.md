@@ -11,7 +11,7 @@ Emotional analysis from scraped comments to reevaluate film ratings
 *Graphing of the results
 
 ## Used techniques
-*Python                   
+* Python                   
 *HTML5
 *CSS3                    
 *flask
